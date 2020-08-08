@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/image_read.v" \
+"C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/image_write.v" \
+"C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/tb_simulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

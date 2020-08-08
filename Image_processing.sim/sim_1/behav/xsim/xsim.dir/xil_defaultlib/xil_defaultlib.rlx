@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/image_read.v,1534604021,verilog,,C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/image_write.v,C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/parameter.v,image_read,,,,,,,,
+C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/image_write.v,1534602693,verilog,,C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/tb_simulation.v,,image_write,,,,,,,,
+C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/parameter.v,1534604028,verilog,,,,,,,,,,,,
+C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/tb_simulation.v,1534163144,verilog,,,C:/Users/EZOUAGH/Downloads/Verilog_Image_Processing/parameter.v,tb_simulation,,,,,,,,
+D:/Master/FPGA Traitement dImage/Image_processing/Image_processing.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
